@@ -1,0 +1,7 @@
+This is another project but this time using random functions along with buttons and images. 
+
+Takeaways
+------------
+-Learned how to make buttons and link them to IBaction functions to manipulate the effects of when that button is pressed.
+-Learned how to put all of it together in the code
+-**Learned how to register the *shake* gesture to activate the code I supplemented to the action.
